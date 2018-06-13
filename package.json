@@ -1,0 +1,14 @@
+{
+  "name": "gw2-api-search",
+  "version": "0.0.1",
+  "description": "Tool for searching through the GW2 API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wayne",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
